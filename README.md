@@ -1,4 +1,12 @@
-### Hi there 👋
+# Eduardo Damían Ramírez Paniagua
+## Codigo F2P
+
+👋 Hola a todos, mi nombre es Eduardo y actualmente estoy estudiando la Ingeniería en Desarrollo de Software en la Universidad Abierta y a Distancia de México (UnADM); en este momento estoy cursando el primer semestre. Actualmente soy TSU. en Informática Administrativa, y lo estudie en la Universidad Tecnológica de León Campus Acámbaro (UTL).
+
+Formación académica en la UnADM:
+Materia de Fundamentos de programación, uso del lenguaje C.
+
+Formación académica en la UTL:
 
 <!--
 **CodigoF2P/CodigoF2P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

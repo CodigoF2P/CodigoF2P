@@ -13,10 +13,12 @@
 Formación académica actual en la UnADM: 
 * Materia de Fundamentos de programación, uso del lenguaje *C*.
 
+:mortar_board:
 Formación académica en mi instancia en la UTL: 
 * Lenguaje *C#*.
 * Base de datos *SQL*.
 
+:mortar_board:
 Formación académica en mi instancia en la preparatoria: 
 * Lenguajes *C++* y *Visual Basic*.
 * Base de datos *Access* y *Visual Fox Pro*.
